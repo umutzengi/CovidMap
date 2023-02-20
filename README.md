@@ -11,11 +11,13 @@ Its a responsive covid case map app built with React.
 - Leaflet
 - Jest/React-Testing Library
 
-<img src="./src/assets/Scr-1.png" height="250" >
-<img src="./src/assets/Scr-4.png" height="250" >
+## Web                                                
 
-<img src="./src/assets/Scr-2.png" height="250" >
-<img src="./src/assets/Scr-3.png" height="250" >
+<img src="./src/assets/Scr-1.png" height="200" > <img src="./src/assets/Scr-2.png" height="200" > 
+
+## Mobile
+
+<img src="./src/assets/Scr-3.png" height="250" > <img src="./src/assets/Scr-4.png" height="250" >
 
 ## Setup of Project
 
