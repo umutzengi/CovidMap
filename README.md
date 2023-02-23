@@ -23,9 +23,9 @@ Its a responsive covid case map app built with React.
 
 Open your Terminal, write and run this code
 
-`git clone https://github.com/umutzengi/covidcase.git `
+`git clone https://github.com/umutzengi/kartaca-covid-case.git `
 
-`cd covidcase`
+`cd kartaca-covid-case`
 
 After this step you have two different ways to start project. Because this a dockerized react app.
 
